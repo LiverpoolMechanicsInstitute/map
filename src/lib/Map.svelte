@@ -55,6 +55,17 @@
             image: "John Sinclair_Liverpool Street_Russell",
             path: "russell.jpeg",
         },
+        {
+            name: "Liverpool Royal Institution",
+            address: "Colquitt Street",
+            coordinates: {
+                lat: 53.40126346617639,
+                lng: -2.977663863427371,
+            },
+            datesActive: "1814 - 1892",
+            image: "Royal Institution",
+            path: "royal_institution.JPG",
+        },
     ];
 
     const MAPBOX_ACCESS_TOKEN =
